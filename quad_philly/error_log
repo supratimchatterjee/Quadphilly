@@ -1,0 +1,2 @@
+[02-Nov-2017 15:23:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/brandrevivedev/public_html/quad_philly/wp-content/themes/quad_philly/index.php on line 15
+[02-Nov-2017 15:23:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/brandrevivedev/public_html/quad_philly/wp-content/themes/quad_philly/index.php on line 15
